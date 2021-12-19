@@ -17,7 +17,7 @@ baseurl: "/user/kluckow"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kasper Luckow
+title: Dan Assouline
 
 # Short description of your site
 description: Academic website
@@ -45,7 +45,7 @@ avatar: "/img/profilepic.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Kasper Luckow
+  name: Dan Assouline
   email: "kasper.luckow@sv.cmu.edu"
   facebook: kasper.luckow  # eg. daattali
   github: ksluckow    # eg. daattali
